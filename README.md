@@ -7,3 +7,7 @@
 - You can use whatever programming language you want!
 
 And finally, we hope you do your best 🥇
+
+A job challenge that I did on 2023, using Ruby.
+
+Created by [Tiago Zanarde](https://tiagozanarde.dev).
